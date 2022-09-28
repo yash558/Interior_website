@@ -1,0 +1,106 @@
+.company {
+    margin-top: 2rem;
+    
+    .company_details {
+        margin-top: 3rem;
+        width: 50%;
+        height: 70%;
+        color: black;
+
+        p {
+            margin-top: 1rem;
+            margin-left: 4.7rem;
+            width: 90%;
+            font-size: 17px;
+            font-weight: 400;
+            color: #3e3e3e;
+            font-family: "Poppins", sans-serif;
+            line-height: 24px;
+        }
+        h5 {
+            margin-left: 4.7rem;
+            font-weight: 400;
+            span {
+                font-weight: 700;
+            }
+        }
+    }
+
+    .company_img {
+        margin: 7rem 4rem 3rem 9rem;
+        img {
+            height: 25rem;
+            width: 27rem;
+            border: 1px solid #3e3e3e;
+        }
+    }
+
+    .company-data{
+        margin-left: 4.5rem;
+        margin-top: 1rem;
+        display: flex;
+        flex-wrap: wrap;
+        h1{
+            color: #fd1C03;
+        }
+        h6{
+            margin-right: 4.5rem;
+
+        }
+    }
+
+    .btn-danger{
+        margin-top: 1rem;
+        margin-left: 4.3rem;
+        width: 10rem;
+        font-size: 1.2rem;
+        height: 3.5rem;
+    }
+
+    .company_cont{
+        .cont{
+            margin-left: -18rem;
+            margin-top: 3rem;
+            width: 17rem;
+            height: 18rem;
+            background-color: white;
+            border: 6px solid #fd1C03;
+            h4{
+                span{
+                    color:  #fd1C03;
+                }
+                margin-top: 2rem;
+                margin-left: 1.5rem;
+                text-transform: uppercase;
+            }
+            h5{
+                font-weight: 600;
+                color: gray;
+                margin-top: 2rem;
+                margin-left: 1.5rem;
+                text-transform: uppercase;
+            }
+
+            .cont1{
+                background-color: #ee5d4d82;
+                width: 100px;
+                height: 100px;
+                margin-top: -8.5rem;
+                margin-left: 5rem;
+                border-radius: 50%;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                -ms-border-radius: 50%;
+                -o-border-radius: 50%;
+}
+
+            h1{
+                margin-top: -10px;
+                font-weight: 700;
+                font-size: 5rem;                
+                margin-left: 1.2rem;
+            }
+        }
+        
+    }
+}

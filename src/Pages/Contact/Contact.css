@@ -1,0 +1,35 @@
+.container .row h1 {
+  color: rgb(247, 50, 122);
+}
+.container .row span {
+  color: black;
+}
+
+.contact-info {
+  margin: 2rem 0 0 12rem;
+  text-align: center;
+  padding: 0rem 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.contact-info span {
+  display: block;
+}
+
+.contact-info div {
+  margin: 0.8rem 0;
+  padding: 1rem;
+}
+.contact-info span .fas {
+  font-size: 2rem;
+  padding-bottom: 0.9rem;
+  color: #f7327a;
+}
+.contact-info div span:nth-child(2) {
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+.contact-info .text {
+  padding-top: 0.4rem;
+}

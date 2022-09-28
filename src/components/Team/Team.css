@@ -1,0 +1,23 @@
+.card{
+    padding: 2.2rem;
+    margin: 2rem;
+    box-shadow: 0 10px 10px 5px rgb(0 0 0 / 50%);
+}
+
+.imgBox img{
+    outline: 4px solid salmon;
+    object-fit: cover;
+}
+
+.content_box{
+    margin: 1rem 0 0 3rem;
+}
+
+.content_box p{
+    margin-left: 1.7rem;
+    
+}
+
+.content_box .founder{
+    margin-left: 3.6rem;
+}

@@ -1,0 +1,47 @@
+.top_title {
+   margin-top: 4rem;
+}
+
+.top_title .top_details{
+    margin-top: -22rem;
+    margin-bottom: 15rem;
+    margin-left: 34rem;
+}
+.top_title .top_details_title h1{
+   color: #fff;
+   font-size: 5rem;
+}
+.top_title .top_details_title p{
+   color: #fff;
+   font-size: 1.7rem;
+   margin-left: -5rem;
+}
+
+.top_title .design{
+    display: flex;
+    flex-direction: row;
+}
+.top_title .design{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.5rem;
+    margin-top: 1rem;
+}
+.top_title .design .l2, .l4{
+   width: 7rem;
+   background-color: #f7327a;
+   height: 4px;
+   margin-left: 1rem;
+   margin-right: 1rem;
+}
+.top_title .design .l3{
+   height: 12px;
+   width: 12px;
+   margin-top: -3px;
+   background-color: #f7327a;
+   border-radius: 50%;
+   -webkit-border-radius: 50%;
+   -moz-border-radius: 50%;
+   -ms-border-radius: 50%;
+   -o-border-radius: 50%;
+}

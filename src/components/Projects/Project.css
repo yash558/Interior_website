@@ -1,0 +1,63 @@
+.project-items .item1 img{
+  outline: 1px solid rgb(135, 134, 134);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  cursor: pointer;
+}
+.project-items .item1 .img{
+  outline: 1px solid rgb(114, 112, 112);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.project-items .item1 img:hover {
+  transition: 0.3s ease-in-out;
+  transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -ms-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+}
+
+.project-items .item1.col-12.col-md-6.col-lg-6.col-xl-2.my-5 {
+  margin-right: 12rem;
+}
+
+.project-tab.d-flex {
+  margin-left: 13rem;
+}
+
+.stock-items {
+  margin-left: 20px;
+  padding-right: 14px;
+}
+
+.stock-items button {
+  padding: 1.2rem;
+  margin-left: 1rem;
+}
+.stock-items p {
+  margin-top: 7px;
+  font-weight: 500;
+  font-size: 1rem;
+  margin-right: 2rem;
+}
+.stock-items button i {
+  font-size: 28px;
+}
+
+.project-tab {
+  margin-left: 18rem;
+  margin-top: 2rem;
+}
